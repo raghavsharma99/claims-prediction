@@ -1,0 +1,1 @@
+{"learning_rate": 0.09657204203426059, "num_leaves": 228, "max_depth": 24, "min_data_in_leaf": 52, "feature_fraction": 0.6711714245545851, "objective": "regression", "metric": "rmse", "verbosity": -1}
